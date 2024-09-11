@@ -1,0 +1,101 @@
+---
+title: "Data Science, ML and AI"
+subtitle: "A primer on topics, applications, and opportunities"
+institute: "Indian Institute of Technology, Madras"
+author: "Vivek Sivaramakrishnan"
+format: 
+    revealjs:
+        theme: [simple, theme.scss]
+        incremental: true
+        mermaid:
+            theme: dark
+---
+
+## Trending Now
+
+. . .
+
+```{=html}
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3826_RC01/embed_loader.js"></script>
+
+<script type="text/javascript"> 
+
+trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Python","geo":"IN","time":"today 5-y"},{"keyword":"Data","geo":"IN","time":"today 5-y"},{"keyword":"/m/0mkz","geo":"IN","time":"today 5-y"},{"keyword":"Mathematics","geo":"IN","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=IN&q=Python,Data,%2Fm%2F0mkz,Mathematics&hl=en","guestPath":"https://trends.google.com:443/trends/embed/"});
+
+</script>
+```
+
+## Applications
+
+- Trick; *Artificial Intelligence* - somehow mimick intelligence; what are some *outcomes* of intelligence?
+
+## Applications
+
+![](images/vision.jpg){.absolute top=100 left=0 width="150"}
+![](images/speech.jpg){.fragment .absolute top=400 left=100 width="150"}
+
+![](images/text.png){.fragment .absolute top=100 left=250 width="150"}
+![](images/brain.jpg){.fragment .absolute top=400 left=350 width="150"}
+
+![](images/bio.jpg){.fragment .absolute top=100 left=500 width="150"}
+![](images/finance.png){.fragment .absolute top=400 left=620 width="150"}
+
+![](images/chem.png){.fragment .absolute top=100 left=750 width="150"}
+![](images/sport.png){.fragment .absolute top=400 left=850 width="150"}
+
+![](images/ecommerce.jpg){.fragment .absolute top=100 left=950 width="150"}
+
+## Paradigms of Learning
+
+:::: {.columns}
+
+::: {.column width="33%" .fragment}
+**Supervised Learning**
+
+- Data with labels (supervision)
+- *Digit Recognition, Sentiment Analysis*
+:::
+
+::: {.column width="33%" .fragment}
+**Unsupervised Learning**
+
+- Just Data. Try to find trends/groupings; clustering
+- *Grouping pictures by faces, Fraud detection*
+:::
+
+::: {.column width="33%" .fragment}
+**Sequential Learning**
+
+- A dynamic environment that can return feedback
+- *Robot navigation, Chess*
+:::
+
+::::
+
+## Sequential Learning - A Demo
+
+:::: {.columns}
+
+::: {.column width="50%" .fragment}
+**MENACE**
+
+- **M**achine **E**ducable **N**oughts **A**nd **C**rosses **E**ngine
+- A machine capable of learning to be a better player of Noughts and Crosses (Tic-Tac-Toe)
+- MENACE was built using 304 matchboxes by Donald Michie in 1961.
+- Demo credits: [mscroggs](https://www.mscroggs.co.uk/blog/19)
+:::
+
+::: {.column width="50%" .fragment}
+```{=html}
+<iframe width="500" height="600" src="menace.html"></iframe>
+```
+:::
+
+::::
+
+
+## Higher Education Opportunities in India
+
+- CMI MSc. Data Science
+- ISI M.Stat, PGDBA
+- M.Tech in Data Science at IITs

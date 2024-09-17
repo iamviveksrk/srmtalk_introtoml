@@ -25,9 +25,21 @@ trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Py
 </script>
 ```
 
+## What is *Learning*?
+
+::: {.fragment}
+
+**Digit Recognition**
+
+:::
+::: {.fragment}
+<iframe width="1000" height="500" src="https://www.3blue1brown.com/"></iframe>
+
+:::
+
 ## Applications
 
-- Trick; *Artificial Intelligence* - somehow mimick intelligence; what are some *outcomes* of intelligence?
+- *Artificial Intelligence* - somehow mimick intelligence; what are some *outcomes* of intelligence?
 
 ## Applications
 
@@ -45,7 +57,7 @@ trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Py
 
 ![](images/ecommerce.jpg){.fragment .absolute top=100 left=950 width="150"}
 
-## Paradigms of Learning
+## Paradigms of Learning {.smaller}
 
 :::: {.columns}
 
@@ -94,8 +106,18 @@ trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Py
 ::::
 
 
-## Higher Education Opportunities in India
+## Interested to learn more? {.smaller}
 
-- CMI MSc. Data Science
-- ISI M.Stat, PGDBA
-- M.Tech in Data Science at IITs
+- NPTEL!
+    - [Intro to Machine Learning](https://nptel.ac.in/courses/106106139) by Prof. B Ravindran
+    - [Intro to ML in Tamil](https://nptel.ac.in/courses/106106236) by Prof. A Rajkumar
+    - [Reinforcement Learning](https://nptel.ac.in/courses/106106143) by Prof. B Ravindran
+
+- Consider the BS program in DS & AI (Data Science Diploma)
+    - [Machine Learning Techniques](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbA_e6_G3FI-BA1f7lCINUu) by Prof. A Rajkumar
+    - [Deep Learning](https://www.youtube.com/playlist?list=PLZ2ps__7DhBZVxMrSkTIcG6zZBDKUXCnM) by Prof. M Khapra
+    - Flexible exits!
+
+- [Deeplearning.ai](https://www.deeplearning.ai/) by Andrew Ng (some new courses available for free for a short time)
+
+- Don't stop after learning; get hands dirty with some projects, and start applying for internships!
